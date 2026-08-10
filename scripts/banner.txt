@@ -1,0 +1,2 @@
+  bookskill — turn documents into on-demand agent skills
+  github.com/veyralabsgroup/bookskill
