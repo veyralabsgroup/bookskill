@@ -1,0 +1,39 @@
+{
+  "name": "@veyralabs/bookskill",
+  "version": "1.0.0",
+  "description": "bookskill — turn any book, document folder, or collection of sources into a structured, on-demand agent skill for Claude Code, GitHub Copilot CLI, and Amp. Incremental re-generation via chapter-hash diffing.",
+  "files": [
+    "SKILL.md",
+    "bookskill/",
+    "scripts/",
+    "tools/",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "agent-skill",
+    "github-copilot-cli",
+    "amp",
+    "book-to-skill",
+    "pdf",
+    "epub",
+    "knowledge-base",
+    "document-extraction",
+    "agent-skills-standard"
+  ],
+  "author": "VeyraLabs <hello@veyralabs.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veyralabsgroup/bookskill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/veyralabsgroup/bookskill/issues"
+  },
+  "homepage": "https://github.com/veyralabsgroup/bookskill#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
